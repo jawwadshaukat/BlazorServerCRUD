@@ -1,0 +1,13 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "..\\BlazorServerCRUD.Web"
+        },
+        {
+            "path": "..\\BlazorServerCRUD.Models"
+        }
+    ]
+}
