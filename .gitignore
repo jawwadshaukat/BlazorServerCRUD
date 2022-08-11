@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+*.cache
+/BlazorServerCRUD.Api/bin/
+/BlazorServerCRUD.Api/obj/
+/BlazorServerCRUD.Web/bin/
+/BlazorServerCRUD.Web/obj/
+/BlazorServerCRUD.Models/bin/
+/BlazorServerCRUD.Models/obj/
+
+
+
